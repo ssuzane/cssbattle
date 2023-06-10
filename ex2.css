@@ -1,0 +1,23 @@
+body{
+    padding: 3%;
+    margin: 10px;
+    background-color: #62374e;
+}
+
+.coluna{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 30%;
+    margin-inline: 100px;
+}
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background: #fdc57b;
+}
+
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
